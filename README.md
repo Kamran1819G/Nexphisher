@@ -1,6 +1,4 @@
-<p align="left">
-<a href="#"><img title="Made in India"></a>
-</p>
+
 <p align="center">
 <a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/nexphisher.png"></a>
 </p>
